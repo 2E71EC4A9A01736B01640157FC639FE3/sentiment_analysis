@@ -1,0 +1,8 @@
+# Local environment settings may contain machine-specific values or credentials.
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+review_history.db
+.streamlit/secrets.toml
